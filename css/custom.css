@@ -5,6 +5,9 @@ header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 1rem;
 }
+.navbar-brand{
+  font-size: 1em;
+}
 
 a.nav-link:hover {
   background: #d1ed1e;
@@ -19,8 +22,8 @@ a.nav-link:hover {
 }
 
 #about {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 .about_me {
@@ -48,4 +51,8 @@ label {
 
 #sendMessageButton:focus {
   background: pink;
+}
+
+.color {
+  color: #d1ed1e;
 }
