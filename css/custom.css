@@ -1,0 +1,51 @@
+/* .test {
+  color: red;
+} */
+header.masthead {
+  padding-top: calc(6rem + 72px);
+  padding-bottom: 1rem;
+}
+
+a.nav-link:hover {
+  background: #d1ed1e;
+}
+
+.navbar-nav > li.nav-item > a.nav-link.active {
+  background: #d1ed1e;
+}
+
+.portfolio {
+    padding: 3rem 1rem;
+}
+
+#about {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.about_me {
+  font-weight: 300;
+  line-height: 200%;
+}
+
+p {
+  color: #cccccc;
+  font-family: "Helvetica Neue";
+}
+
+#contact {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+label {
+  font-size: 1.25rem;
+}
+
+#sendMessageButton:hover {
+  background: red;
+}
+
+#sendMessageButton:focus {
+  background: pink;
+}
